@@ -17,7 +17,7 @@
   "license": "MIT",
   "icon": "assets/simplerauth/icon.png",
 
-  "environment": "server",
+  "environment": "*",
   "entrypoints": {
     "main": [
       "com.dqu.simplerauth.AuthMod"
